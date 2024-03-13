@@ -1,6 +1,5 @@
 # Online Courses Training Portal WebApp CRUD on ASP.NET MVC
 
-![alt-text](https://github.com/ShahzaibAyyub/Online-Training-Courses-CRUD-Portal-Asp.Net-MVC/blob/master/Online%20course%20ASP.Net.gif)
 
 This is a Course Registration Portal where users can register for a desired online course on ASP.Net Core. CRUD Functionality is implmented for users, courses and registrations and registrations of users with respect to there chosed course in also shown. 
 
